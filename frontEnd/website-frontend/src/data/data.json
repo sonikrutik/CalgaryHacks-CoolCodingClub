@@ -1,0 +1,471 @@
+﻿[
+
+    {
+        "containerName": "CMPUT 301 ",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "29-01-2021",
+        "description": "Assignment 0 - Formative"
+    },
+    {
+        "containerName": "CMPUT 301",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "10-02-2021",
+        "description": "Assignment 1 - 8%"
+    },
+    {
+        "containerName": "CMPUT 301",
+        "categoryName": "Participation ",
+        "date (DD-MM-YYYY)": "N/A",
+        "description": "Participation - Formative"
+    },
+    {
+        "containerName": "CMPUT 301",
+        "categoryName": "Midterm ",
+        "date (DD-MM-YYYY)": "01-02-2021",
+        "description": "Midterm 1 -15%"
+    },
+    {
+        "containerName": "CMPUT 301",
+        "categoryName": "Midterm ",
+        "date (DD-MM-YYYY)": "01-03-2021",
+        "description": "Midterm 2 -15%"
+    },
+    {
+        "containerName": "CMPUT 301",
+        "categoryName": "Midterm ",
+        "date (DD-MM-YYYY)": "31-03-2021",
+        "description": "Midterm 3 -15%"
+    },
+    {
+        "containerName": "CMPUT 301",
+        "categoryName": "Project",
+        "date (DD-MM-YYYY)": "29-01-2021",
+        "description": "Project Part 0 - Formative"
+    },
+    {
+        "containerName": "CMPUT 301",
+        "categoryName": "Project",
+        "date (DD-MM-YYYY)": "12-02-2021",
+        "description": "Project Part 1 - Formative"
+    },
+    {
+        "containerName": "CMPUT 301",
+        "categoryName": "Project",
+        "date (DD-MM-YYYY)": "26-02-2021",
+        "description": "Project Part 2- 8%"
+    },
+    {
+        "containerName": "CMPUT 301",
+        "categoryName": "Project",
+        "date (DD-MM-YYYY)": "19-03-2021",
+        "description": "Project Part 3- 12%"
+    },
+    {
+        "containerName": "CMPUT 301",
+        "categoryName": "Project",
+        "date (DD-MM-YYYY)": "09-04-2021",
+        "description": "Project Part 4- 20%"
+    },
+    {
+        "containerName": "CMPUT 301",
+        "categoryName": "Final",
+        "date (DD-MM-YYYY)": "N/A",
+        "description": "No Final Exam - 0%"
+    },
+    {
+        "containerName": "CMPUT 291",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "28-01-2021",
+        "description": "Assignment 1 - 7%"
+    },
+    {
+        "containerName": "CMPUT 291",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "11-02-2021",
+        "description": "Assignment 2 - 7%"
+    },
+    {
+        "containerName": "CMPUT 291",
+        "categoryName": "Midterm",
+        "date (DD-MM-YYYY)": "25-02-2021",
+        "description": "Midterm Exam - 25%"
+    },
+    {
+        "containerName": "CMPUT 291",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "11-03-2021",
+        "description": "Assignment 3 - 7%"
+    },
+    {
+        "containerName": "CMPUT 291",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "25-03-2021",
+        "description": "Assignment 4 - 12%"
+    },
+    {
+        "containerName": "CMPUT 291",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "08-04-2021",
+        "description": "Assignment 5 - 12%"
+    },
+    {
+        "containerName": "CMPUT 291",
+        "categoryName": "Final",
+        "date (DD-MM-YYYY)": "26-04-2021",
+        "description": "Final Exam - 30%"
+    },
+    {
+        "containerName": "ACCTG 300",
+        "categoryName": "Midterm",
+        "date (DD-MM-YYYY)": "11-03-2021",
+        "description": "Midterm Exam - 30%"
+    },
+    {
+        "containerName": "ACCTG 300",
+        "categoryName": "Final",
+        "date (DD-MM-YYYY)": "20-04-2021",
+        "description": "Final Exam - 40%"
+    },
+    {
+        "containerName": "ACCTG 300",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "15-01-2021",
+        "description": "Quiz 1 - 3%"
+    },
+    {
+        "containerName": "ACCTG 300",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "22-01-2021",
+        "description": "Quiz 2 - 3%"
+    },
+    {
+        "containerName": "ACCTG 300",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "29-01-2021",
+        "description": "Quiz 3 - 3%"
+    },
+    {
+        "containerName": "ACCTG 300",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "05-02-2021",
+        "description": "Quiz 4 - 3%"
+    },
+    {
+        "containerName": "ACCTG 300",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "12-02-2021",
+        "description": "Quiz 5 - 3%"
+    },
+    {
+        "containerName": "ACCTG 300",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "26-02-2021",
+        "description": "Quiz 6 - 3%"
+    },
+    {
+        "containerName": "ACCTG 300",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "05-03-2021",
+        "description": "Quiz 7 - 3%"
+    },
+    {
+        "containerName": "ACCTG 300",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "26-03-2021",
+        "description": "Quiz 8 - 3%"
+    },
+    {
+        "containerName": "ACCTG 300",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "15-01-2025",
+        "description": "Quiz 9 - 3%"
+    },
+    {
+        "containerName": "ACCTG 300",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "02-04-2021",
+        "description": "Quiz 10 - 3%"
+    },
+    {
+        "containerName": "ACCTG 300",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "15-01-2026",
+        "description": "Quiz 11 - 3%"
+    },
+    {
+        "containerName": "ACCTG 300",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "16-04-2021",
+        "description": "Quiz 12 - 3%"
+    },
+    {
+        "containerName": "MATH 225",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "26-01-2021",
+        "description": "Assignment 1 - 1.82%"
+    },
+    {
+        "containerName": "MATH 225",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "02-02-2021",
+        "description": "Assignment 2 - 1.82%"
+    },
+    {
+        "containerName": "MATH 225",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "09-02-2021",
+        "description": "Assignment 3 - 1.82%"
+    },
+    {
+        "containerName": "MATH 225",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "23-02-2021",
+        "description": "Assignment 4 - 1.82%"
+    },
+    {
+        "containerName": "MATH 225",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "02-03-2021",
+        "description": "Assignment 5 - 1.82%"
+    },
+    {
+        "containerName": "MATH 225",
+        "categoryName": "Midterm",
+        "date (DD-MM-YYYY)": "05-03-2021",
+        "description": "Midterm Exam - 30%"
+    },
+    {
+        "containerName": "MATH 225",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "11-03-2021",
+        "description": "Assignment 6 - 1.82%"
+    },
+    {
+        "containerName": "MATH 225",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "18-03-2021",
+        "description": "Assignment 7 - 1.82%"
+    },
+    {
+        "containerName": "MATH 225",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "25-03-2021",
+        "description": "Assignment 8 - 1.82%"
+    },
+    {
+        "containerName": "MATH 225",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "01-04-2021",
+        "description": "Assignment 9 - 1.82%"
+    },
+    {
+        "containerName": "MATH 225",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "08-04-2021",
+        "description": "Assignment 10 - 1.82%"
+    },
+    {
+        "containerName": "MATH 225",
+        "categoryName": "Assignment",
+        "date (DD-MM-YYYY)": "15-04-2021",
+        "description": "Assignment 11 - 1.82%"
+    },
+    {
+        "containerName": "MATH 225",
+        "categoryName": "Final",
+        "date (DD-MM-YYYY)": "19-04-2021",
+        "description": "Final Exam - 50%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Lab",
+        "date (DD-MM-YYYY)": "01-02-2021",
+        "description": "Lab 1 - 5%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Lab",
+        "date (DD-MM-YYYY)": "01-02-2021",
+        "description": "Lab 2 - 5%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Lab",
+        "date (DD-MM-YYYY)": "08-02-2021",
+        "description": "Lab 3 - 5%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Lab",
+        "date (DD-MM-YYYY)": "15-02-2021",
+        "description": "Lab 4 - 5%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Lab",
+        "date (DD-MM-YYYY)": "01-03-2021",
+        "description": "Lab 5 - 5%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Lab",
+        "date (DD-MM-YYYY)": "08-03-2021",
+        "description": "Lab 6 - 5%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Lab",
+        "date (DD-MM-YYYY)": "15-03-2021",
+        "description": "Lab 7 - 5%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Lab",
+        "date (DD-MM-YYYY)": "22-03-2021",
+        "description": "Lab 8 - 5%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Lab",
+        "date (DD-MM-YYYY)": "29-03-2021",
+        "description": "Lab 9 - 5%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Lab",
+        "date (DD-MM-YYYY)": "29-03-2021",
+        "description": "Lab 10 - 5%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "25-01-2021",
+        "description": "Quiz 1 - 1.67%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "01-02-2021",
+        "description": "Quiz 2 - 1.67%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "08-02-2021",
+        "description": "Quiz 3 - 1.67%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "15-02-2021",
+        "description": "Quiz 4 - 1.67%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "01-03-2021",
+        "description": "Quiz 5 - 1.67%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "08-03-2021",
+        "description": "Quiz 6 - 1.67%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "15-03-2021",
+        "description": "Quiz 7 - 1.67%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "22-03-2021",
+        "description": "Quiz 8- 1.67%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "29-03-2021",
+        "description": "Quiz 9 - 1.67%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "05-04-2021",
+        "description": "Quiz 10 - 1.67%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "12-04-2021",
+        "description": "Quiz 11 - 1.67%"
+    },
+    {
+        "containerName": "CMPUT 382",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "19-04-2021",
+        "description": "Quiz 12 - 1.67%"
+    },
+    {
+        "containerName": "CMPUT 382 ",
+        "categoryName": "Final",
+        "date (DD-MM-YYYY)": "21-04-2021",
+        "description": "Final Exam - 30%"
+    },
+    {
+        "containerName": "CMPUT 204",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "18-01-2021",
+        "description": "Quiz 0 - 2%"
+    },
+    {
+        "containerName": "CMPUT 204",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "25-01-2021",
+        "description": "Quiz 1 - 6%"
+    },
+    {
+        "containerName": "CMPUT 204",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "08-02-2021",
+        "description": "Quiz 2 - 6%"
+    },
+    {
+        "containerName": "CMPUT 204",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "01-03-2021",
+        "description": "Quiz 3 - 6%"
+    },
+    {
+        "containerName": "CMPUT 204",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "15-03-2021",
+        "description": "Quiz 4 - 6%"
+    },
+    {
+        "containerName": "CMPUT 204",
+        "categoryName": "Quiz",
+        "date (DD-MM-YYYY)": "29-03-2021",
+        "description": "Quiz 5 - 6%"
+    },
+    {
+        "containerName": "CMPUT 204",
+        "categoryName": "Midterm",
+        "date (DD-MM-YYYY)": "22-02-2021",
+        "description": "Midterm Exam 1 - 14%"
+    },
+    {
+        "containerName": "CMPUT 204",
+        "categoryName": "Midterm",
+        "date (DD-MM-YYYY)": "05-04-2021",
+        "description": "Midterm Exam 2 - 14%"
+    },
+    {
+        "containerName": "CMPUT 204",
+        "categoryName": "Final",
+        "date (DD-MM-YYYY)": "24-04-2021",
+        "description": "Final Exam - 40%"
+    }
+]
