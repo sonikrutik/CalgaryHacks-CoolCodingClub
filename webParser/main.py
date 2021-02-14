@@ -9,7 +9,6 @@ def login(driver, url, username, password):
     driver.get(url)
     driver.find_element_by_id("username").send_keys(username)
     driver.find_element_by_id("user_pass").send_keys(password)
-    driver.find_element_by_css_selector
     driver.find_element_by_class_name("btn-default").click()
     coursePage_html = driver.page_source
     return coursePage_html

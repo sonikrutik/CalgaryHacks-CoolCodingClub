@@ -1,7 +1,6 @@
-import pdfParser
+import os
 
-def parseHTMLFile(HTMLFile):
-    # pdf2Text insert later
+def parseFile(filePath):
     # create additional functions as needed
     # comment a shit ton
     return
@@ -10,4 +9,6 @@ def parseHTMLFile(HTMLFile):
 # for testing only
 # to login into my eclass do "python .\main.py"
 # to run this file do "python .\parsingFunctions.py"
-parseHTMLFile("parseText.html")
+fileDir = os.path.dirname(os.path.realpath('__file__'))
+filePath = os.path.join(fileDir, f"parseMaterials/test.txt")
+parseFile(filePath)
