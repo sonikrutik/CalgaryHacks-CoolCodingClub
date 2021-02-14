@@ -1,0 +1,174 @@
+MATH 225, Q1: Course Outline
+ Course name: Linear Algebra II (MATH 225)
+ Term and section: Winter 2021, Q1
+ Time: MWF, 09:00–09:50
+ Lecture location: Held via Zoom
+ Instructor: Dr. Paul Buckingham, p.r.buckingham@ualberta.ca
+ Office hours: 13:00–14:00 (T), 10:00–11:00 (W), 11:00–12:00 (R), or by
+appointment
+Times
+All times stated in this course outline, on eClass, on assessments, and in communications
+from the instructor are in Mountain Time and in the 24-hour clock.
+Topics
+The following topics will be covered: vector spaces and subspaces; linearly independent
+sets and spanning sets; bases, dimension, and change of basis; linear
+transformations; diagonalization; inner product spaces; and orthogonal diagonalization
+of real symmetric matrices. We will also cover some applications of
+the theory, such as constrained optimization and quadratic forms.
+Textbook
+There is no required textbook. However, if you would like further practice beyond
+the practice questions on eClass, you may wish to consult David Poole’s
+Linear Algebra: A Modern Introduction, 4th edition. Most of the topics covered
+in this course can be found there as well.
+Prerequisites
+Both (i) and (ii) are required:
+(i) a 100-level linear algebra course;
+(ii) a 100-level calculus course.
+You will need to be able to perform basic differentiation and integration.
+Grades
+Your grade for the course will be calculated using the following weights:
+ Assignments: 20%
+ Midterm: 30%
+ Final exam: 50%
+Paul Buckingham MATH 225, Q1: Course Outline j 1
+To be guaranteed a passing grade of D, you must achieve at least 50% in the
+course overall and at least 50% in the final exam. To be guaranteed a grade
+of A, you must achieve at least 90% in the course overall and at least 90% in
+the final exam.
+Grades are unofficial until approved by the department and faculty offering
+the course.
+Assignments
+There will be 11 assignments, all worth the same amount. Late submissions will
+not be accepted, and no extensions to assignment deadlines will be granted.
+There will be no exceptions to these rules.
+Your best 10 assignments will be used to calculate the assignment component
+of your overall grade. In other words, your lowest assignment score will be
+ignored. Any missed assignment will be given a score of zero and will be treated
+as your lowest. Therefore, if you miss one of your assignments, all of the other
+10 will count towards your final grade.
+Where to submit assignments and exams
+Assignments and exams should be submitted via Assign2. Instructions for using
+Assign2 may be found here:
+https://support.ctl.ualberta.ca/index.php?/Knowledgebase/Article/
+View/439/1/submitting-assignments-using-assign2-for-students
+Penalty for incorrectly oriented images in Assign2
+All images uploaded to Assign2 must be the right way up. If any image is upside
+down or on its side, the grader will enter a mark of zero for the corresponding
+question. This rule applies to assignments and exams.
+Midterm exam
+The midterm exam will be held from 09:00 to 09:50 on Friday 5th March 2021.
+It will be delivered remotely.
+Final exam
+The final exam will be 2 hours long and will be delivered remotely. The date
+and time will be announced on Bear Tracks. To see the tentative date for the
+final exam, please visit the university’s examinations and scheduling website:
+https://www.ualberta.ca/registrar/examinations/index.html?
+Note that the tentative date and time are subject to change, and only the date
+and time announced on Bear Tracks should be considered final.
+Paul Buckingham MATH 225, Q1: Course Outline j 2
+Use of materials in exams
+Students are not permitted to use notes, books, or calculators in the exams. A
+computer is allowed only for the purposes of viewing the exams and submitting
+solutions to them. A phone or tablet may be used for photographing and
+submitting exam solutions but for no other purpose.
+Absence from the midterm exam
+If incapacitating illness, severe domestic affliction, or some other compelling
+reason prevents you from writing the midterm exam, then you may apply for an
+excused absence. To apply for an excused absence, you must contact the instructor
+within two working days of the midterm, or as soon as possible thereafter.
+The instructor may request adequate documentation to substantiate the reason
+for the absence.
+If an excused absence is granted, the weight of the midterm will be transferred
+to the final.
+An excused absence is a privilege and not a right. There is no guarantee
+that an absence will be excused. Misrepresentation of facts to gain an excused
+absence is a serious breach of the Code of Student Behaviour1.
+Missed assessments where the cause is religious belief
+For an excused absence where the cause is religious belief, a student must contact
+the instructor within two weeks of the start of classes to request accommodation
+for the term (including the final exam, where relevant). The instructor may request
+adequate documentation to substantiate the request. Students who failed
+at the start of term to request exam accommodations for religious beliefs are
+expected to follow the deferred final exam process outlined below.
+Deferred final exam
+If incapacitating illness, severe domestic affliction, or some other compelling reason
+prevents you from writing the final exam, then you may apply for a deferred
+final exam. Such an application must be made to your Faculty Office within two
+working days of the missed exam and must be supported by appropriate documentation
+or a statutory declaration2. Deferred exams are a privilege and not a
+right; there is no guarantee that a deferred exam will be granted. Misrepresentation
+of facts to gain a deferred exam is a serious breach of the Code of Student
+Behaviour.
+The deferred final exam will take place from 09:00 to 11:00 on Saturday 8th
+1https://www.ualberta.ca/governance/resources/policies-standards-and-codes-of-conduct/
+code-of-student-behaviour
+2https://calendar.ualberta.ca/content.php?catoid=29&navoid=7238#Attendance
+Paul Buckingham MATH 225, Q1: Course Outline j 3
+May 2021. It will be delivered remotely.
+Re-examination
+A student who writes the final exam and fails the course may apply for a
+re-examination. Re-examinations are rarely granted in the Faculty of Science.
+Re-examinations are governed by university-wide Academic Regulations3 and
+Faculty of Science Academic Regulations4. Misrepresentation of facts to gain a
+re-examination is a serious breach of the Code of Student Behaviour.
+Audio or video recording
+Audio or video recording of lectures, labs, seminars, or any other teaching environment
+by students is allowed only with the prior written consent of the
+instructor or as part of an approved accommodation plan. Recorded material is
+to be used solely for personal study and is not to be used or distributed for any
+other purpose without the prior written consent of the instructor.
+Academic integrity
+The University of Alberta is committed to the highest standards of academic
+integrity and honesty. Students are expected to be familiar with these standards
+regarding academic honesty and to uphold the policies of the university in this
+respect. Students are particularly urged to familiarize themselves with the Code
+of Student Behaviour and to avoid any behaviour that could potentially result
+in suspicions of cheating, plagiarism, misrepresentation of facts and/or participation
+in an offence. Academic dishonesty is a serious offence and can result in
+suspension or expulsion from the university.
+All forms of academic dishonesty are unacceptable at the university. Any
+suspected offence will be reported to the Faculty of Science. Anyone who is
+found in violation of the Code of Student Behaviour may receive a sanction.
+Typical sanctions include conduct probation, a mark reduction or a mark of
+zero on an assessment, a grade reduction or a grade of F in a course, a remark
+on the transcript, and a recommendation for suspension or expulsion.
+3https://calendar.ualberta.ca/content.php?catoid=33&navoid=9816#Examinations_
+Exams
+4https://calendar.ualberta.ca/content.php?catoid=33&navoid=9843#academic-standing
+Paul Buckingham MATH 225, Q1: Course Outline j 4
+REMOTE DELIVERY
+Technology for remote learning
+To successfully participate in remote learning in this course, you should have
+access to a computer with an internet connection that can support the tools
+and technologies the university uses to deliver content, engage with instructors,
+TAs, and fellow students, and facilitate assessment and examinations. For details,
+please refer to the following website:
+https://www.ualberta.ca/information-services-and-technology/services/
+software-hardware-vendors/technology-requirements.html
+If you encounter difficulty meeting the technology recommendations, please
+email the Office of the Dean of Students (dosdean@ualberta.ca) to explore options
+and support.
+If you do not have access to the minimum technology recommended, you
+must contact the instructor by the Add/Delete deadline (22nd January 2021).
+Arrangements will be made to accommodate students who contact the instructor
+by this date. Failure to contact the instructor by this date may result in a zero
+in any assessment that depends on the minimum technology.
+Remote proctoring
+Remote proctoring will be used for exams. Your computer and environment
+will be monitored during exams. You should arrange for a place to write timed
+exams without interruption. Tablets and mobile devices are incompatible with
+remote proctoring services.
+Recording of synchronous activities
+The instructor will record, in full or in part, some or all of the classes in this
+course. The instructor will upload some or all of the recordings to Google Drive,
+where they can be accessed by students enrolled in either this section (Q1) or
+the other section (R1). The TAs will also have access to the recordings that are
+uploaded to Google Drive.
+Students have the right not to participate in the recordings and are advised
+to turn off their cameras and audio prior to recording. They can still participate
+through text-based chat, which will not be captured in the recordings. It is
+recommended that any student who uses a camera remove all identifiable and
+personal belongings from the area captured by the camera.
+Recordings will be made available until Saturday 8th May 2021. If you have
+any questions about the use or storage of recordings, please contact the instructor.
+Paul Buckingham MATH 225, Q1: Course Outline j 5

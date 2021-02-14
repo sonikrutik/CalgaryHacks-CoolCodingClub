@@ -185,9 +185,13 @@ def extractDays(dictOfDatesAndInfo, relevantDates , rawListOfData, dayAndMonthLi
 
                 result =  month + '/' +day
                 result += getValidYear(result)
+
+                
             #checkDateValidity(result)
-            if (checkIfDateIsValid(result)):
-                makeEventFromDate(result , individualLine , dictOfDatesAndInfo)
+            #if (checkIfDateIsValid(result)):
+            print(individualLine)
+            print(result)
+            makeEventFromDate(result , individualLine , dictOfDatesAndInfo)
 
 # def checkDateValidity(date_text):
 #     try:
@@ -215,6 +219,7 @@ def makeEventFromDate(date, stringToSearch, dictionary):
 
     #get the proper event and time and then add to dictionary
     eventType = getEventType(stringToSearch)
+    print(eventType)
     if eventType:
 
         time =      getValidTime(stringToSearch) # time returned in (firstTimeFound) , (secondTimeFound) ,(firstTimeFound , 'to' , secondTimeFound)
@@ -302,7 +307,7 @@ def checkIfDateIsValid(dateString):
 
 def getEventType(stringToSearch):
     events = [ 'midterm' , 'final exam' ,'final' , 'test' , 'quiz' ,  'assignment'
-    , 'assignments' , 'exam' , 'homework'  , 'paper' , 'essay' , 'project' ]
+    , 'assignments' , 'exam' , 'homework'  , 'paper' , 'essay' , 'project', 'break' ]
     for event in events:
         eventIndex = stringToSearch.lower().find(event) # find index of event
         if eventIndex > -1:                             # if event exists

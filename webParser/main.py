@@ -41,5 +41,5 @@ if __name__ == "__main__":
     
 
 
-    #time.sleep(60)
+    time.sleep(60)
     driver.quit()
