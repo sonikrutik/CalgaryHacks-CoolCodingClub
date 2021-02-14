@@ -5,6 +5,9 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import Classes from './pages/Classes';
 import Progress from './pages/Progress';
+import Inbox from './pages/Inbox';
+import Week from './pages/Week';
+import Today from './pages/Today';
 
 function App() {
   return (
@@ -13,6 +16,9 @@ function App() {
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
+          <Route path='/Inbox' exact component={Inbox} />
+          <Route path='/Today' exact component={Today} />
+          <Route path='/Week' exact component={Week} />
           <Route path='/Classes' component={Classes} />
           <Route path='/Progress' component={Progress} />
         </Switch>
